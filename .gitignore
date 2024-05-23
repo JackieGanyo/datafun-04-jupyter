@@ -1,3 +1,6 @@
+#This .gitignore file lists content that does not need to be tracked in the project history.
+#It was compiled as the default .gitignore when the initial repository setup was completed.
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
