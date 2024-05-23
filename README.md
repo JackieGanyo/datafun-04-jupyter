@@ -40,13 +40,14 @@ Manage your project requirements.  See CC3.6: Manage Project Requirements Add an
 Verify these files and folders exist in your root project folder:
 
 .venv/
-.gitignore - see the spec .gitignore for suggested contentsLinks to an external site.
+.gitignore - see the spec .gitignore for suggested contents Links to an external site.
 README.md
 requirements.txt
 Git add and commit your initial changes with a message. See CC3.7: Git Add and Commit Your Local Changes
 
 git add .
 git commit -m "initial commit"
+
 Step 7. Git Push To GitHub
 Git push your initial changes to GitHub. See CC3.8: Git Push Local Changes to Remote Repo
 
