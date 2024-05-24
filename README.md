@@ -52,3 +52,25 @@ Step 7. Git Push To GitHub
 Git push your initial changes to GitHub. See CC3.8: Git Push Local Changes to Remote Repo
 
 git push origin main
+
+## **Start Jupyter on machine**
+**Install Dependencies**
+Option 2. Install packages on one line
+
+py -m pip install jupyterlab numpy pandas matplotlib seaborn scipy
+
+**Freeze Your Dependencies**
+When finished, freeze your dependencies to the requirements.txt file:
+
+\\\ py -m pip freeze > requirements.txt \\\
+
+## **Start Jupyter**
+1: Start Jupyter in VS Code
+Open your project folder in VS Code. 
+
+Add a new file, e.g. FirstNotebook.ipynb - the file extension must be exactly ".ipynb" - that is how VS Code will know what needs to be done. 
+
+Make sure the file is open for editing (if it is not already). 
+
+Take a screenshot of your Jupyter file running in your VS Code. 
+
